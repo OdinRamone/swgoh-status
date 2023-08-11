@@ -43,7 +43,7 @@ export default new FarmCategory(
                 new FarmUnit('Grand Moff Tarkin', 7, 13, 7),
                 new FarmUnit('Hunter', 7, 13, 5),
                 new FarmUnit('Nute Gunray', 7, 13, 7),
-                new FarmUnit('Padmé Amidala', 7, 13, 8),
+                new FarmUnit('PadmÃ© Amidala', 7, 13, 8),
                 new FarmUnit('Tech', 7, 13, 5),
                 new FarmUnit('Tusken Raider', 7, 13, 5),
                 new FarmUnit('Wrecker', 7, 13, 5),
@@ -169,5 +169,33 @@ export default new FarmCategory(
                 new FarmUnit('Raddus', 5),
             ],
         ),
+
+new Farm(
+            'Leia Organa',
+            'legend',
+            'light',
+            [
+                new FarmUnit('Captain Rex', 7, 13, 7),
+                new FarmUnit('Princess Kneesaa', 7, 13, 7),
+                new FarmUnit('Wicket', 7, 13, 3),
+                new FarmUnit('Lando Calrissian', 7, 13, 5),
+                new FarmUnit('Admiral Ackbar', 7, 13, 3),
+                new FarmUnit('Scout Trooper', 7, 13, 7),
+                new FarmUnit('R2-D2', 7, 13, 8),
+                new FarmUnit('Captain Han Solo', 7, 13, 5),
+                new FarmUnit('Rebel Officer Leia Organa', 7, 13, 5),
+                new FarmUnit('Chief Chirpa', 7, 13, 3),
+                
+            ],
+            [
+            ],
+        ),
+
+
+
+
+
+
+
     ]
 )
